@@ -1,4 +1,4 @@
- 💻 Profile: jeeya8127
+ Hey! I'm JEEYA MISHRA
 
 - 💡  Aspiring  Full-Stack Developer/ML Engineer focused on building intelligent and scalable web solutions.
 - 🛠️  Primary development efforts concentrated on mastering the  MERN stack  and integrating it with  AI/ML solutions.
